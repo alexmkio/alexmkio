@@ -11,10 +11,10 @@
 ![](https://img.shields.io/badge/Skill-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Thanks for stopping by
-:wave:&nbsp;Hi, I'm Alex!
+:wave: Hi, I'm Alex!
 
 #### My story 
-- Introduced to programming when I was 14 years old -- I always thought that a career in tech was likely but had trouble seeing a path through all the noise. I took a circuitous route that led to a life supporting retail stores and clinical laboratories in management roles before finally landing at [Turing School of Software and Design](https://turing.io/).
+Introduced to programming when I was 14 years old -- I always thought that a career in tech was likely but had trouble seeing a path through all the noise. I took a circuitous route that led to a life supporting retail stores and clinical laboratories in management roles before finally landing at [Turing School of Software and Design](https://turing.io/).
 
 Today I look forward to combining the skills I’ve acquired in managing nearly every business I’ve worked for and my newly obtained programming skills. I'm a passionate and energetic software engineer who thrives on problem solving and creating holistic career experiences for those around me.
 
@@ -36,4 +36,4 @@ I encourage you to reach out to me (me@alexkio.com). I look forward to discussin
 - MongoDB
 
 #### Ask Me About...
-- My favorite rootbeer
+- My favorite rootbeer 🍺
