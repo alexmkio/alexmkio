@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Skill-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Thanks for stopping by
-:wave: Hi, I'm Alex!
+:wave:&nbsp;Hi, I'm Alex!
 
 #### My story 
 - Introduced to programming when I was 14 years old -- I always thought that a career in tech was likely but had trouble seeing a path through all the noise. I took a circuitous route that led to a life supporting retail stores and clinical laboratories in management roles before finally landing at [Turing School of Software and Design](https://turing.io/).
