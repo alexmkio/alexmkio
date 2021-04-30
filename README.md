@@ -21,13 +21,13 @@ Today I look forward to combining the skills I’ve acquired in managing nearly 
 I encourage you to reach out to me (me@alexkio.com). I look forward to discussing how I can best contribute to your organization. 
 
 #### Work and Activities
-- Most of the last decade I served as the Manager of Operations at the University of Florida's [pathology laboratorie's](https://pathology.ufl.edu/) diabetes research devision and at a start-up clinical laboratory in the Denver metro area.
+- Most of the last decade I served as the Manager of Operations at the University of Florida's [pathology laboratorie's](https://pathology.ufl.edu/) diabetes research division and at a start-up clinical laboratory in the Denver metro area.
 - I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/).
 - Lover of backpacking and riding bikes up mountains.
 
 #### Projects
-- Finding non-profit organizations looking for contrbutions to their open source projects.
-- I building an open source ipsum lorem generator. I'll tell you more about it when it's further along.
+- Finding non-profit organizations looking for contributions to their open source projects.
+- I am building an open source ipsum lorem generator. I'll tell you more about it when it's further along.
 
 #### I'm Currently Learning
 - Backend
