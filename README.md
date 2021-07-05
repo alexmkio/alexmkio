@@ -3,9 +3,8 @@
 <h3 align="center"> Hi there, I'm Alex (he/him) :wave:</h3>
 
 * Contact: me@alexkio.com
-* Portfolio: [https://alexkio.com/](https://alexkio.com/)
-* LinkedIn: [https://www.linkedin.com/in/alexkio/](https://www.linkedin.com/in/alexkio/)
-<!-- * Coding Blog: [https://alexmkio.medium.com/](https://alexmkio.medium.com/) -->
+* Portfolio: [alexkio.com](https://alexkio.com/)
+* LinkedIn: [linkedin.com/in/alexkio](https://www.linkedin.com/in/alexkio/)
 * [Turing School of Software and Design's](https://turing.io/) Frontend Engineering program student
 
 #### About Me
