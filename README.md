@@ -20,9 +20,6 @@
 - PostreSQL
 - MongoDB
 
-#### Ask Me About...
-- My favorite rootbeer 🍺
-
 #### Profeciencies
  <table align="center">
     <tr>
