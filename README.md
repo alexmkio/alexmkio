@@ -1,39 +1,52 @@
 <img src="header.jpg" width="100%">
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TDD-Jest/Enzyme-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TDD-Mocha/Chai-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Skill-Responsive_Design-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Skill-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<h3 align="center"> Hi there, I'm Alex (he/him) :wave:</h3>
 
-## Thanks for stopping by
-:wave: Hi, I'm Alex!
+* Contact: me@alexkio.com
+* Portfolio: [alexkio.com](https://alexkio.com/)
+* LinkedIn: [linkedin.com/in/alexkio](https://www.linkedin.com/in/alexkio/)
+* [Turing School of Software and Design's](https://turing.io/) Frontend Engineering program student
 
-#### My story 
-Introduced to programming when I was 14 years old -- I always thought that a career in tech was likely but had trouble seeing a path through all the noise. I took a circuitous route that led to a life supporting retail stores and clinical laboratories in management roles before finally landing at [Turing School of Software and Design](https://turing.io/).
-
-Today I look forward to combining the skills I’ve acquired in managing nearly every business I’ve worked for and my newly obtained programming skills. I'm a passionate and energetic software engineer who thrives on problem solving and creating holistic career experiences for those around me.
-
-I encourage you to reach out to me (me@alexkio.com). I look forward to discussing how I can best contribute to your organization. 
-
-#### Work and Activities
-- Most of the last decade I served as the Manager of Operations at the University of Florida's [pathology laboratorie's](https://pathology.ufl.edu/) diabetes research division and at a start-up clinical laboratory in the Denver metro area.
+#### About Me
 - I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/).
 - Lover of backpacking and riding bikes up mountains.
 
 #### Projects
-- Finding non-profit organizations looking for contributions to their open source projects.
+- Looking to contribute to non-profit organization's open source projects.
 - I am building an open source ipsum lorem generator. I'll tell you more about it when it's further along.
 
 #### I'm Currently Learning
-- Backend
 - Python
 - PostreSQL
 - MongoDB
 
-#### Ask Me About...
-- My favorite rootbeer 🍺
+#### Profeciencies
+ <table align="center">
+    <tr>
+        <td>JavaScript</td>
+        <td>HTML5</td>
+        <td>Sass</td>
+        <td>React</td>
+        <td>Router</td> 
+        <td>NPM</td>
+        <td>Express</td>
+        <td>Cypress</td>
+        <td>Mocha</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
+        <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> 
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/express.png" alt="Express" width="50" height="auto" /></td>
+        <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
+        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
+    </tr>
+</table>
+
+#### Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexmkio&show_icons=true&theme=dracula"/>
+</p>
