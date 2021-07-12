@@ -8,12 +8,12 @@
 * [Turing School of Software and Design's](https://turing.io/) Frontend Engineering program student
 
 #### About Me
-- I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/).
-- Lover of backpacking and riding bikes up mountains.
+- I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/)
+- Lover of cats, backpacking and riding bikes up mountains
 
 #### Projects
-- Looking to contribute to non-profit organization's open source projects.
-- I am building an open source ipsum lorem generator. I'll tell you more about it when it's further along.
+- Looking to contribute to non-profit organization's open source projects
+- I am building an open source ipsum lorem generator. I'll tell you more about it when it's further along
 
 #### I'm Currently Learning
 - Python
