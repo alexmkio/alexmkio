@@ -5,17 +5,17 @@
 * Contact: me@alexkio.com
 * Portfolio: [https://terminal.turing.edu/alumni/581-alex-kio](https://terminal.turing.edu/alumni/581-alex-kio)
 * LinkedIn: [linkedin.com/in/alexkio](https://www.linkedin.com/in/alexkio/)
-* [Turing School of Software and Design's](https://turing.io/) Frontend Engineering alumnus
+* [Turing School of Software & Design's](https://turing.io/) Frontend Engineering alum
 
 #### About Me
 - I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/)
 - Lover of cats, backpacking and riding bikes up mountains
 
-#### Projects
-- Currently working on a full stack application that mimics code wars but specifically for students at Turing’s School of Software and Design
+#### Current Projects
+- Building a full stack application that mimics code wars but specifically for students at the [Turing School of Software & Design](https://turing.io/)
+- Creating a public API that houses information regarding elections in Africa and building a corresponding FE that uses the [D3 library](https://observablehq.com/@d3/gallery) to drive compelling user experiences
 - Continuing to refactor a previous project that determines the suitable hours for a user to go outside based on previously selected weather thresholds
 - Plan on building an open source ipsum lorem generator. I'll tell you more about it when it's further along
-
 
 #### I'm Currently Learning
 - Next/Nuxt
