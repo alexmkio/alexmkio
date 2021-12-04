@@ -5,51 +5,58 @@
 * Contact: me@alexkio.com
 * Portfolio: [https://terminal.turing.edu/alumni/581-alex-kio](https://terminal.turing.edu/alumni/581-alex-kio)
 * LinkedIn: [linkedin.com/in/alexkio](https://www.linkedin.com/in/alexkio/)
-* [Turing School of Software & Design's](https://turing.io/) Frontend Engineering alum
+* [Turing School of Software & Design](https://turing.edu/) Front-End alum
 
-#### About Me
+## About Me
 - I am an avid [cyclist](https://bikerumor.com/2019/05/28/bikerumor-pic-of-the-day-riffrafting-on-the-santa-fe-river-florida/) and aspirational [frame builder](https://willadean.com/)
-- Lover of cats, backpacking and riding bikes up mountains
+- Lover of [cats](https://photos.app.goo.gl/y1ES5znoffvzjveu9), backpacking and riding bikes up mountains
 
-#### Current Projects
-- Building a full stack application that mimics code wars but specifically for students at the [Turing School of Software & Design](https://turing.io/)
+### Current Projects
+- A full stack application designed to help software engineers study for common technical interview questions
+- A full stack application that mimics code wars but specifically for students at the [Turing School of Software & Design](https://turing.edu/)
 - Creating a public API that houses information regarding elections in Africa and building a corresponding FE that uses the [D3 library](https://observablehq.com/@d3/gallery) to drive compelling user experiences
-- Continuing to refactor a previous project that determines the suitable hours for a user to go outside based on previously selected weather thresholds
-- Plan on building an open source ipsum lorem generator. I'll tell you more about it when it's further along
 
-#### I'm Currently Learning
-- Next/Nuxt
-- Node.js/Express/MongoDB
-- Redux/Context
-- Go
+### What I Use
+<p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+</p>
+<p>
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-white.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
+    <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="Vue" src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=black"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+    <img alt="Express" src="https://img.shields.io/badge/express-white.svg?&style=for-the-badge&logo=express&logoColor=black"/>
+</p>
+<p>
+    <img alt="Apollo GraphQL" src="https://img.shields.io/badge/apollo%20graphql-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
+    <img alt="MUI" src="https://img.shields.io/badge/mui-007FFF.svg?&style=for-the-badge&logo=materialui&logoColor=white"/>
+</p>
+<p>
+    <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+    <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+    <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
+    <img alt="Jest" src="https://img.shields.io/badge/-jest-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+<p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
 
-#### Profeciencies
- <table align="center">
-    <tr>
-        <td>JavaScript</td>
-        <td>HTML5</td>
-        <td>Sass</td>
-        <td>React</td>
-        <td>Router</td> 
-        <td>NPM</td>
-        <td>Express</td>
-        <td>Cypress</td>
-        <td>Mocha</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> 
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/express.png" alt="Express" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
-    </tr>
-</table>
-
-#### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmkio&show_icons=true&theme=dracula"/>
+### What I'm Learning
+<p>
+    <img alt="Redux" src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img alt="GraphQL" src="https://img.shields.io/badge/-graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="NuxtJS" src="https://img.shields.io/badge/-nuxtjs-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black"/>
+    <img alt="Go" src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
