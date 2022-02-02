@@ -3,7 +3,6 @@
 <h3 align="center"> Hi there, I'm Alex (he/him) :wave:</h3>
 
 * Contact: me@alexkio.com
-* Portfolio: [https://terminal.turing.edu/alumni/581-alex-kio](https://terminal.turing.edu/alumni/581-alex-kio)
 * LinkedIn: [linkedin.com/in/alexkio](https://www.linkedin.com/in/alexkio/)
 * [Turing School of Software & Design](https://turing.edu/) Front-End alum
 
